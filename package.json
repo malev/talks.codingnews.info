@@ -1,0 +1,7 @@
+{
+  "name": "talks-codingnews-info",
+  "version": "0.0.2",
+  "devDependencies": {
+    "reveal-md": "~0.0.13"
+  }
+}

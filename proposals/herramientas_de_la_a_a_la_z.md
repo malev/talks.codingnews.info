@@ -68,10 +68,20 @@ Cada persona se presenta: nombre, organización y equipo de fútbol
   * Chrome extensions
   * Scrapy/Scraperwiki/Easyparser/Scrapekit
 
+#### Limpieza y transformación
+
+* CSVkit
+* Open Refine
+
+
 #### Analisis
 
 * Libreoffice
-* CSVkit
-* Open Refine
+
+#### Visualización
+
+* CartoDB
+* Google Fusion
+* Timeline js
 
 

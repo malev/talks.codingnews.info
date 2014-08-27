@@ -76,7 +76,7 @@ Cada persona se presenta: nombre, organización y equipo de fútbol
 
 #### Analisis
 
-* Libreoffice
+* Libreoffice/Google spreadsheets
 
 #### Visualización
 

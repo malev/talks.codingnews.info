@@ -44,6 +44,34 @@ Introducción de los facilitadores. Luego, cada participante dice su nombre y su
 * Tabula
 * Python
 
-#### Adquisición
-*
-* 
+## Pasos durante el taller
+
+
+#### Presentacion (15min)
+
+Cada persona se presenta: nombre, organización y equipo de fútbol
+
+#### Introducción Taller
+
+* que vamos a hacer
+* que esperamos
+
+#### División en grupos (5 personas por grupo)
+
+#### Adquisición y Extracción
+
+* FOI/catalogos/crowdsourcing/scraping
+* Mostramos catalogos
+* Mostramos datasets que tenemos
+* Herramientas
+  * Tabula
+  * Chrome extensions
+  * Scrapy/Scraperwiki/Easyparser/Scrapekit
+
+#### Analisis
+
+* Libreoffice
+* CSVkit
+* Open Refine
+
+

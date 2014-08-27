@@ -51,14 +51,16 @@ Introducción de los facilitadores. Luego, cada participante dice su nombre y su
 
 Cada persona se presenta: nombre, organización y equipo de fútbol
 
-#### Introducción Taller
+#### Introducción Taller (5 min)
 
 * que vamos a hacer
-* que esperamos
+* que esperamos de cada grupo
+  * trabaje en un data set recorriendo cada paso del data pipeline
+  * descubrir gaps
 
-#### División en grupos (5 personas por grupo)
+#### División en grupos (5 personas por grupo) (1:30hora)
 
-#### Adquisición y Extracción
+##### Adquisición y Extracción (20 min)
 
 * FOI/catalogos/crowdsourcing/scraping
 * Mostramos catalogos
@@ -68,20 +70,21 @@ Cada persona se presenta: nombre, organización y equipo de fútbol
   * Chrome extensions
   * Scrapy/Scraperwiki/Easyparser/Scrapekit
 
-#### Limpieza y transformación
+##### Limpieza y transformación (20 min)
 
 * CSVkit
 * Open Refine
 
-
-#### Analisis
+##### Analisis (20 min)
 
 * Libreoffice/Google spreadsheets
 
-#### Visualización
+##### Visualización (20 min)
 
 * CartoDB
 * Google Fusion
 * Timeline js
 
+#### Plenario (30 min)
 
+Cada grupo presenta lo que hizo

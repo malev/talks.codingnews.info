@@ -36,6 +36,7 @@ Introducción de los facilitadores. Luego, cada participante dice su nombre y su
 * [Bibliotecas Municipales de Montevideo ](https://catalogodatos.gub.uy/dataset/bibliotecas-municipales-montevideo)
 * [Diputados Nacionales](http://www.diputados.gov.ar/diputados/listadip.html)
 * [Aportes y aportantes de la ruta del dinero](https://github.com/gabelula/larutadeldinero/tree/master/data)
+* [Datos del Banco Mundial](http://data.worldbank.org/)
 
 ### Herramientas para el data pipeline
 
@@ -44,6 +45,63 @@ Introducción de los facilitadores. Luego, cada participante dice su nombre y su
 * Tabula
 * Python
 
-#### Adquisición
-*
-* 
+## Pasos durante el taller
+
+
+#### Presentacion (15min)
+
+Cada persona se presenta: nombre, organización y equipo de fútbol
+
+#### Introducción Taller (5 min)
+
+* que vamos a hacer
+* que esperamos de cada grupo
+  * trabaje en un data set recorriendo cada paso del data pipeline
+  * descubrir gaps
+
+#### División en grupos (5 personas por grupo) (1:30hora)
+
+##### Adquisición y Extracción (20 min)
+
+Mostramos catalogos, herramientas y conjunto de datos.
+
+* Pedidos de acceso de información pública
+* Catálogos
+  * http://catalogodatos.gub.uy/
+  * http://data.buenosaires.gob.ar/
+  * http://data.worldbank.org/
+  * http://datospublicos.gov.ar
+  * http://data.austintexas.gov
+  * https://government.github.com/
+* CrowdSourcing
+  * http://vozdata.lanacion.com.ar
+* Scraping
+  * Chrome extensions
+    * Scraper https://chrome.google.com/webstore/detail/mbigbapnjcgaffohmbkdlecaccepngjd
+    * Ejercicio
+      * Scrapear http://www.diputados.gov.ar/diputados/listadip.html
+  * Tabula
+  * Scraperwiki
+  * Scrapy
+  * Scrapekit
+
+##### Limpieza y transformación (20 min)
+
+* CSVkit
+* Open Refine
+  * Ejercicio
+    * Limpiar los datos disponibles
+
+##### Analisis (20 min)
+
+* Libreoffice/Google spreadsheets
+
+##### Visualización (20 min)
+
+* CartoDB
+* Google Fusion
+* Timeline js
+
+#### Plenario (30 min)
+
+Cada grupo presenta lo que hizo

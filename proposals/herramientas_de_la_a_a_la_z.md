@@ -36,6 +36,7 @@ Introducción de los facilitadores. Luego, cada participante dice su nombre y su
 * [Bibliotecas Municipales de Montevideo ](https://catalogodatos.gub.uy/dataset/bibliotecas-municipales-montevideo)
 * [Diputados Nacionales](http://www.diputados.gov.ar/diputados/listadip.html)
 * [Aportes y aportantes de la ruta del dinero](https://github.com/gabelula/larutadeldinero/tree/master/data)
+* [Datos del Banco Mundial](http://data.worldbank.org/)
 
 ### Herramientas para el data pipeline
 
@@ -62,18 +63,34 @@ Cada persona se presenta: nombre, organización y equipo de fútbol
 
 ##### Adquisición y Extracción (20 min)
 
-* FOI/catalogos/crowdsourcing/scraping
-* Mostramos catalogos
-* Mostramos datasets que tenemos
-* Herramientas
-  * Tabula
+Mostramos catalogos, herramientas y conjunto de datos.
+
+* Pedidos de acceso de información pública
+* Catálogos
+  * http://catalogodatos.gub.uy/
+  * http://data.buenosaires.gob.ar/
+  * http://data.worldbank.org/
+  * http://datospublicos.gov.ar
+  * http://data.austintexas.gov
+  * https://government.github.com/
+* CrowdSourcing
+  * http://vozdata.lanacion.com.ar
+* Scraping
   * Chrome extensions
-  * Scrapy/Scraperwiki/Easyparser/Scrapekit
+    * Scraper https://chrome.google.com/webstore/detail/mbigbapnjcgaffohmbkdlecaccepngjd
+    * Ejercicio
+      * Scrapear http://www.diputados.gov.ar/diputados/listadip.html
+  * Tabula
+  * Scraperwiki
+  * Scrapy
+  * Scrapekit
 
 ##### Limpieza y transformación (20 min)
 
 * CSVkit
 * Open Refine
+  * Ejercicio
+    * Limpiar los datos disponibles
 
 ##### Analisis (20 min)
 

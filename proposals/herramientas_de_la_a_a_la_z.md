@@ -98,8 +98,12 @@ Mostramos catalogos, herramientas y conjunto de datos.
 
 ##### Visualización (20 min)
 
-* CartoDB
 * Google Fusion
+  * Ejercicio
+    * Geolocalizar los datos de diputados nacionales
+* CartoDB
+  * Ejercicio
+    * Mapear diputados 
 * Timeline js
 
 #### Plenario (30 min)
